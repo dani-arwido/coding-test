@@ -52,6 +52,12 @@ Open `frontend\index.html` on browser
 
 ## Unit test
 
+Install jest
+
+```
+npm i -g jest
+```
+
 Run unit test
 
 ```
